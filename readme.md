@@ -1,29 +1,30 @@
 # Project Title
 
-Tests unitaires du smart contract Voting
+Unit tests of the smart contract Voting.
 
 ## Description
 
-Tests des différentes possibilités de retours (event, revert).
+Tests of the different return possibilities (event, revert).
 
 ## Description
 
-Tests des fonctionnalités :
-    RegisteringVoters
-      ✓ addVoter
-      ✓ getVoter
-    ProposalsRegistrationStarted
-      ✓ addProposal
-      ✓ getProposal
-    Voting session, tally votes and get winner
-      ✓ setVote
-      ✓ tallyVotes
-      ✓ getWinner
-    State
-      ✓ startProposalsRegistering
-      ✓ endProposalsRegistering
-      ✓ startVotingSession
-      ✓ endVotingSession
+Tests des fonctions :<br />
+<br />
+    <b>RegisteringVoters</b> <br />
+      ✓ addVoter <br />
+      ✓ getVoter <br />
+    <b>ProposalsRegistrationStarted</b> <br />
+      ✓ addProposal <br />
+      ✓ getProposal <br />
+    <b>Voting session, tally votes and get winner</b> <br />
+      ✓ setVote <br /> 
+      ✓ tallyVotes <br />
+      ✓ getWinner <br />
+    <b>State</b> <br />
+      ✓ startProposalsRegistering <br />
+      ✓ endProposalsRegistering <br />
+      ✓ startVotingSession <br />
+      ✓ endVotingSession <br />
 
 ## Getting Started
 
