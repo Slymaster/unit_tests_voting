@@ -1,4 +1,4 @@
-# Project Title
+# Unit tests
 
 Unit tests of the smart contract Voting.
 
@@ -6,9 +6,9 @@ Unit tests of the smart contract Voting.
 
 Tests of the different return possibilities (event, revert).
 
-## Description
+## Functions tested
 
-Tests des fonctions :<br />
+Unit tests of the following functions :<br />
 <br />
     <b>RegisteringVoters</b> <br />
       ✓ addVoter <br />
